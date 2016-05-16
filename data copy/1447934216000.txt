@@ -1,0 +1,52 @@
+Hi Bochen,
+I am with the University Programs team at Amazon We received your resume and we are interested in your application for the full-time Software Development Engineer and/or Software Development Engineer in Test position You will be considered for open positions at our headquarters in Seattle, WA
+To be considered for a full-time position, before September 1st, 2016 If you will graduate after this date, please email me your graduation date and a recruiter will reach out with next steps for the internship interview process if positions are available
+The Online Assessment is the first step in the interview process To be considered for this position, please reply to this email with the following:
+
+  1  What is your first and last name?
+  2  What is your email address?
+  3  What school do you attend?
+  4  What is your graduation date?
+  5  Do you have any offer deadlines?
+
+a       If so, what is your deadline?
+
+b      What company is your offer with? Please note if it is with an Amazon subsidiary ex Audible, Lab 126, Zappos, etc
+
+  1  Have you submitted an application on our website within the last six months if not, you must apply here  in order to continue with the interview process
+  2  Have you interviewed or taken the Online Assessment with Amazon within the last six months?
+  3  Photos will be taken during the assessment to verify applicants’ identity in later stages of the interviewing process Do you have access to a web cam?
+
+
+The email will come from: System Admin donot-reply@aspiringmindsin
+The subject of the email will be: Amazon Opportunity – Software Development Engineer – Online Assessment Invitation
+The links and user login info for the test will follow the ONLINE ASSESSMENT INSTRUCTIONS section
+Please visit our website
+Thank you for your interest and we look forward to hearing back from you!
+University Programs
+Amazon
+E: CollegeTechRC5@amazoncom
+Work hard Have fun Make history
+Amazoncom/College
+
+For questions about the assessment or interview process, please review the Frequently Asked Questions below If you have further questions, please respond to this email
+
+May I ask about the expected questions for the online assessment so can prepare?
+You can practice coding in JAVA or C++ You can choose one or the other You can also look up logical reasoning problems on the internet and practice on a few of those items
+How long will I have to complete the test?
+You will have approximately 90 minutes to complete the test
+Can I code in Python?
+No, at this time you must code in Java or C++
+How do I select my coding language?
+The test will prompt you to make your selection prior to starting the test You cannot switch between languages
+Is it okay to use my own IDE or minimize the test and copy and paste code?
+We strongly recommend that you program and compile your code in the test platform only You will be at a severe disadvantage and run the risk of running out of time and missing potential test cases should you use your own IDE
+What do I do if I am having technical difficulties while trying to take the test?
+Please reach out to the help desk chat first
+If you are not getting a response from the help desk, feel free to email us at CollegeTechRC5@amazoncom
+About how long do you estimate the process taking?
+The typical process could take about 2 to 3 months If you have a particular deadline that we would need to work with please share that and we will do our best to accommodate your timeline
+Are there positions available outside of Seattle?
+Since Seattle is the location of our headquarters, it is also where we have the majority of our intern positions However, we sometimes offer internships in other cities  If you have a strong preference of location, you may discuss this with your recruiter once an offer has been extended He or she will help you with the location/team preference based on availability
+
+

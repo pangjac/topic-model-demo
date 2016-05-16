@@ -1,0 +1,107 @@
+body{
+  background: #e7e7e7;
+  font-family: Arial, Helvetica, Sans-serif;
+  text-align: center;
+  padding: 5px;
+  margin: 0;
+}
+
+.loader{
+  margin: 50px auto 10px;
+  width: 600px;
+  height: 30px;
+  border-radius: 14px;
+  border-bottom: 1px solid #fff;
+  border-top: 1px solid #999;
+  background: #ccc;
+  overflow: hidden;
+  position: relative;
+}
+
+.loader.gray{
+  background: #999;
+}
+
+.progress-bar{
+  height: inherit;
+  width: 0%;
+  border-radius: inherit;
+  position: relative;
+  overflow: hidden;
+}
+
+.percentage{
+  position: absolute;
+  top: 4px;
+  right: 5px;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+
+
+/***************************************/
+/* BELOW HERE IS SOLELY FOR AESTHETICS */
+/*_____________________________________*/
+
+/*** COLOR SCHEMES ***/
+
+/* BLUE */
+.blue .progress-bar{
+  background: #3498db;
+}
+.blue .progress-stripes{
+  color: #2980b9;
+}
+.blue .percentage{
+  color: #eee;
+}
+
+/*** LOADED ***/
+
+span{
+  color: #888;
+  text-shadow: 0 1px 0 #fff;
+}
+
+
+span.loaded.blue{
+  color: #2980b9;
+}
+
+
+
+/*** SKINS ***/
+.skins{
+  padding: 4px 0 8px;
+  cursor: default;
+  font-size: 14px;
+  color: #666;
+  background: #fff;
+  opacity: .5;
+  -moz-transition: opacity .25s linear;
+  -webkit-transition: opacity .25s linear;
+  transition: opacity .25s linear;
+}
+
+.skins:hover{
+  opacity: 1;
+}
+
+.skin{
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+  margin-bottom: -7px;
+  border: 1px solid #fff;
+  display: inline-block;
+    *display: inline;
+    zoom: 1.0;
+}
+
+#blue{
+  background: #2980b9;
+}
+#blue:hover{
+  background: #3498db;
+}

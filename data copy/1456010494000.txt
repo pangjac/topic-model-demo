@@ -1,0 +1,32 @@
+Hi all,
+This is our weekly status update 3:
+
+Narrative
+A photo sharing platform that provides recommendations of clothes that fit
+consumers The recommendations can come from fashion icons taking
+consumers’ specific needs into account, or other consumers who share
+similar personal profiles We also provide a ads platform for e-commerce
+company to display their ads
+
+Week Behind
+
+   - Refined 20 Questions
+   - Reviewed 20 Questions from another team
+   - Create the product dashboard
+   - Executed Unpack, Sketch, and Pretotype
+
+Week Ahead
+
+   - Refine our Unpack, Sketch, Pretotype
+   - Prepare for Sprint 1
+   - Start to build the system
+
+Risks
+
+
+   - Our clothes fit system may not be easy to implement
+   - Classification of the clothes may need some advanced computer vision
+   technology
+
+Best,
+Bochen Wang, Fan Li, Shimiao Huang, Tianyuan Liu

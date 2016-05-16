@@ -1,0 +1,5 @@
+{
+    "event":{"title":"event2","address":"cornell
+tech","event_at":"2015-11-22T02:22:17054Z","lat":15033,"lng":3039},
+    "tags":["magic1","magic2"]
+}
