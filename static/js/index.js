@@ -23,11 +23,13 @@
     		if ( console && console.log ) {
       			console.log( "Sample of data:", data);
     		}
-		    d3.json('fake_users1.json', function(data) {
 
+		    d3.json('mgdata/39.json', function(data) {
+
+		    if (data != null && data != undefined) {
 		    data = MG.convert.date(data, 'date');
 		    MG.data_graphic({
-		        title: "Line Chart",
+		        title: "Topic 1 ",
 		        description: "This is a simple line chart. You can remove the area portion by adding area: false to the arguments list.",
 		        data: data,
 		        width: 600,
@@ -37,7 +39,48 @@
 		        x_accessor: 'date',
 		        y_accessor: 'value'
 		    });
+		}
 		});
+
+		    d3.json('mgdata/sample_48.json', function(data) {
+
+		    if (data != null && data != undefined) {
+
+		    data = MG.convert.date(data, 'date');
+		    MG.data_graphic({
+		        title: "Topic 2",
+		        description: "This is a simple line chart. You can remove the area portion by adding area: false to the arguments list.",
+		        data: data,
+		        width: 600,
+		        height: 200,
+		        right: 40,
+		        target: document.getElementById('fake_users2'),
+		        x_accessor: 'date',
+		        y_accessor: 'value'
+		    });
+		}
+		});
+
+		    d3.json('mgdata/sample_49.json', function(data) {
+
+		    if (data != null && data != undefined) {
+
+		    data = MG.convert.date(data, 'date');
+		    MG.data_graphic({
+		        title: "Topic 3",
+		        description: "This is a simple line chart. You can remove the area portion by adding area: false to the arguments list.",
+		        data: data,
+		        width: 600,
+		        height: 200,
+		        right: 40,
+		        target: document.getElementById('fake_users3'),
+		        x_accessor: 'date',
+		        y_accessor: 'value'
+		    });
+		}
+		});
+
+
     	});
 	
 		$('#bar-status').text('Running...').removeClass('loaded');

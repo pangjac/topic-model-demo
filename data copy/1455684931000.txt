@@ -1,9 +1,0 @@
-Welcome!
-
-Thanks for signing up with LintCode!
-Please click the button below to activate your account
-
-Activate Your Account  
-
-— LintCode Team
-
